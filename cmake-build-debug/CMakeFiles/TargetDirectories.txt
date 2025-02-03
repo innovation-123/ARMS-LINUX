@@ -1,0 +1,3 @@
+/home/lab03/Desktop/ejadaarms/serialcomm-master/cmake-build-debug/CMakeFiles/serialcomm.dir
+/home/lab03/Desktop/ejadaarms/serialcomm-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lab03/Desktop/ejadaarms/serialcomm-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

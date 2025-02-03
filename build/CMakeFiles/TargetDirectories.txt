@@ -1,0 +1,3 @@
+D:/c++ files/serialcomm/build/CMakeFiles/serialcomm.dir
+D:/c++ files/serialcomm/build/CMakeFiles/ALL_BUILD.dir
+D:/c++ files/serialcomm/build/CMakeFiles/ZERO_CHECK.dir
